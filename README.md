@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @VisakhVarghese
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning interesting stuffs. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Ping me on Instagram @____v.v___
+- 💞️ I’m looking to collaborate on Interesting Projects. 
+- 📫 How to reach me - Ping me on Instagram 
+      @____v.v___
 - 💻 Java, Javascript, Python, Php
 - 🎮 CSS, HTML, React, Node.Js
 - 📑 MySql, SqlLite, Firebase, Mongodb 
