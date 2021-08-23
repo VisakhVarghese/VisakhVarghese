@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @VisakhVarghese
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning interesting stuffs. 
-- 💞️ I’m looking to collaborate on Interesting Projects. 
-- 📫 How to reach me - Ping me on Instagram 
-— Insta>@____v.v___
+- 👋 Hi, Visakh here. I'm passionate with software development and testing. Currently I'm seeking new technologies and working environment. I have great knowledge in java and their related frameworks such as spring boot etc. Experienced in mobile and web application development. In addition presently working with react and react native. 
 - 💻 Java, Javascript, Python, Php
 - 🎮 CSS, HTML, React, Node.Js
 - 📑 MySql, SqlLite, Firebase, Mongodb 
