@@ -15,6 +15,15 @@ Visakh here🖖. I'm passionate with software development and testing in real ti
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
+<!-- [website]: https://codeSTACKr.com -->
+
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/visakh-varghese
+
 <!---
 VisakhVarghese/VisakhVarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
