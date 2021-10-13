@@ -24,6 +24,9 @@ Visakh here🖖. I'm passionate with software development and testing in real ti
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 
+<br />
+<br />
+
 ### Database:
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
@@ -53,10 +56,14 @@ Visakh here🖖. I'm passionate with software development and testing in real ti
 
 <!-- [website]: https://codeSTACKr.com -->
 
-[twitter]:
+[twitter]: https://www.youtube.com/channel/UClYDqPdL0fYjQoMSHdcqDGw
 [youtube]: https://www.youtube.com/channel/UClYDqPdL0fYjQoMSHdcqDGw
 [instagram]: https://www.instagram.com/____v.v________/
 [linkedin]: https://www.linkedin.com/in/visakh-varghese
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <!---
 VisakhVarghese/VisakhVarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
