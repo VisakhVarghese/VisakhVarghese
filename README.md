@@ -1,4 +1,4 @@
-### Visakh here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hello World, I'm Visakh - aka FullStack Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm passionate with software development and testing in real time environment. I've great knowledge in java and thier related frameworks such as spring boot etc. Currently, grab new emerging technologies and working with new environments. Experienced great knowledge in mobile and web application development, expecially in android, react and react native etc. Presently 've been working with MERN Stack and react extentions.
 
@@ -18,7 +18,7 @@ I'm passionate with software development and testing in real time environment. I
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -71,6 +71,9 @@ I'm passionate with software development and testing in real time environment. I
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VisakhVarghese&count_private=true&show_icons=true&theme=merko)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=VisakhVarghese&langs_count=10&theme=tokyonight&layout=compact)
 
 <!---
 VisakhVarghese/VisakhVarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
