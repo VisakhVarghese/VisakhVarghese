@@ -14,9 +14,6 @@ I'm passionate with software development and testing in real time environment. I
 
 [![Twitter Badge](https://img.shields.io/badge/-@visakhvarghese2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://www.linkedin.com/in/visakh-varghese) [![Mail Badge](https://img.shields.io/badge/-v_v-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClYDqPdL0fYjQoMSHdcqDGw) [![Linkedin Badge](https://img.shields.io/badge/-Visakh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visakh-varghese) [![Mail Badge](https://img.shields.io/badge/-@____v.v________-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/____v.v________/) [![Mail Badge](https://img.shields.io/badge/-VisakhVarghese-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:visakhvarghese63@gmail.com)
 
-<br />
-<br />
-
 ### Top Technologies :
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -25,17 +22,11 @@ I'm passionate with software development and testing in real time environment. I
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<br />
-<br />
-
 ### Languages :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<br />
-<br />
 
 ### Database:
 
@@ -43,9 +34,6 @@ I'm passionate with software development and testing in real time environment. I
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-
-<br />
-<br />
 
 ### Frameworks :
 
@@ -67,9 +55,6 @@ I'm passionate with software development and testing in real time environment. I
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<br />
-<br />
-
 ### OS :
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -77,24 +62,15 @@ I'm passionate with software development and testing in real time environment. I
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-<br />
-<br />
-
 ### IDE :
 
 ![Eclipse](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-
-<br />
-<br />
 
 ### Design :
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
-
-<br />
-<br />
 
 <!---
 VisakhVarghese/VisakhVarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
