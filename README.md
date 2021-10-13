@@ -1,22 +1,15 @@
-Visakh here🖖. I'm passionate with software development and testing in real time environment. I've great knowledge in java and thier related frameworks such as spring boot etc. Currently, grab new emerging technologies and working with new environments. Experienced great knowledge in mobile and web application development, expecially in android, react and react native etc. Presently 've been working with MERN Stack and react extentions.
+### Visakh here🖖
 
--  💻 Java, Javascript, Python, Php
--  🎮 CSS, HTML, React, Node.Js
--  📑 MySql, SqlLite, Firebase, Mongodb
--  📱 React Native, Android Studio
+I'm passionate with software development and testing in real time environment. I've great knowledge in java and thier related frameworks such as spring boot etc. Currently, grab new emerging technologies and working with new environments. Experienced great knowledge in mobile and web application development, expecially in android, react and react native etc. Presently 've been working with MERN Stack and react extentions.
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClYDqPdL0fYjQoMSHdcqDGw) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visakh-varghese) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/____v.v________/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:visakhvarghese63@gmail.com)
 
 <br />
 <br />
+
+### Top Technologies :
 
 ### Languages :
 
@@ -48,11 +41,6 @@ Visakh here🖖. I'm passionate with software development and testing in real ti
 <br />
 <br />
 
-### Cloud :
-
-<br />
-<br />
-
 ### OS :
 
 <br />
@@ -72,10 +60,6 @@ Visakh here🖖. I'm passionate with software development and testing in real ti
 
 <!-- [website]: https://codeSTACKr.com -->
 
-[twitter]: https://www.youtube.com/channel/UClYDqPdL0fYjQoMSHdcqDGw
-[youtube]: https://www.youtube.com/channel/UClYDqPdL0fYjQoMSHdcqDGw
-[instagram]: https://www.instagram.com/____v.v________/
-[linkedin]: https://www.linkedin.com/in/visakh-varghese
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
