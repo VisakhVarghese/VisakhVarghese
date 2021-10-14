@@ -1,6 +1,6 @@
 ### Hello World, Visakh Here - aka Software Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm passionate with SDLC who loves to code and explore new emerging technologies in real world. I've great knowledge of java and thier related frameworks such as spring boot etc. Currently, grab new emerging technologies and working with new environments. Acquired great knowledge in mobile and web application development scenarios, expecially on android, react and react native etc. Presently I've been working on MERN Stack and react extentions for 2 years.
+I'm passionate with SDLC who loves to code and explore new emerging technologies in real world. I've great knowledge of java and thier related frameworks such as spring boot etc. Currently, grab new emerging technologies and working with new environment. Acquired great knowledge in mobile and web application development scenarios, expecially on android, react and react native etc. Presently I've been working on MERN Stack and react extentions for 2 years.
 
 <!-- TODO: Add last video link -->
 
