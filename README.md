@@ -1,14 +1,14 @@
 ### Hello World, Visakh Here - aka Software Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm passionate with SDLC who loves to code and explore new emerging technologies in real world. I've great knowledge of java and thier related frameworks such as spring boot etc. Currently, grab new emerging technologies and working with new environment. Acquired great knowledge of mobile and web application development scenarios, expecially on android, react and react native etc. Presently I've been working on MERN Stack and react extentions for 2 years.
+Full Stack Web Developer with 2+ years of hands-on experience crafting and overseeing frontend and backend applications utilizing cutting-edge technologies. Proficient in a diverse array of programming languages, databases, and frameworks, with a knack for troubleshooting software issues and devising innovative solutions.Proven ability to troubleshoot software issues effectively and deliver innovative solutions to meet project requirements. Strong communication and collaboration skills, with a passion for staying updated with industry trends and best practices. 
 
 <!-- TODO: Add last video link -->
 
--  🔭 I’m currently working on React Extensions
--  🤔 I've been seeking new technologies for 2 years.
--  📫 How to reach me: vvabraham01@hotmail.com.
--  😄 Nicknames: v_v, abraham.
--  ⚡ Fun fact: Addicted to web series and movies ~ I'm really into cricket.
+-  🔭 I’m currently working on Spring Boot + Microservices
+-  🤔 I've been exploring modern technologies for 5 years
+-  📫 How to reach me: visakhvarghese63@gmail.com
+-  😄 Nicknames: the_stoic.
+-  ⚡ Fun fact: I'm a punk!
 
 ### Connect with me:
 
