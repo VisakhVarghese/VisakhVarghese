@@ -1,4 +1,4 @@
-### Hello World, Visakh Here - aka Software Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi, Visakh Here - Full Stack Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Full Stack Web Developer with 2+ years of hands-on experience crafting and overseeing frontend and backend applications utilizing cutting-edge technologies. Proficient in a diverse array of programming languages, databases, and frameworks, with a knack for troubleshooting software issues and devising innovative solutions.Proven ability to troubleshoot software issues effectively and deliver innovative solutions to meet project requirements. Strong communication and collaboration skills, with a passion for staying updated with industry trends and best practices. 
 
