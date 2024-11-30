@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-Full Stack Web Developer with 2+ years of hands-on experience crafting and overseeing frontend and backend applications utilizing cutting-edge technologies. Proficient in a diverse array of programming languages, databases, and frameworks, with a knack for troubleshooting software issues and devising innovative solutions.Proven ability to troubleshoot software issues effectively and deliver innovative solutions to meet project requirements. Strong communication and collaboration skills, with a passion for staying updated with industry trends and best practices. 
+Full Stack Web Developer with 3+ years of hands-on experience crafting and overseeing frontend and backend applications utilizing cutting-edge technologies. Proficient in a diverse array of programming languages, databases, and frameworks, with a knack for troubleshooting software issues and devising innovative solutions.Proven ability to troubleshoot software issues effectively and deliver innovative solutions to meet project requirements. Strong communication and collaboration skills, with a passion for staying updated with industry trends and best practices. 
 
 <!-- TODO: Add last video link -->
 
